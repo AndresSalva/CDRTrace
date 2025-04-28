@@ -1,0 +1,4232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>ubicaciones_combinadas_estilos</name>
+    <Style id="cdrAntennaStyle">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="poiLocationStyle">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Ubicaciones Antenas (CDR)</name>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.385719
+Lon: -66.066556</description>
+        <Point>
+          <coordinates>-66.066556,-17.385719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.385719
+Lon: -66.066556</description>
+        <Point>
+          <coordinates>-66.066556,-17.385719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.372806
+Lon: -66.072278</description>
+        <Point>
+          <coordinates>-66.072278,-17.372806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.372806
+Lon: -66.072278</description>
+        <Point>
+          <coordinates>-66.072278,-17.372806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.372806
+Lon: -66.072278</description>
+        <Point>
+          <coordinates>-66.072278,-17.372806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.372806
+Lon: -66.072278</description>
+        <Point>
+          <coordinates>-66.072278,-17.372806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.372806
+Lon: -66.072278</description>
+        <Point>
+          <coordinates>-66.072278,-17.372806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.385719
+Lon: -66.066556</description>
+        <Point>
+          <coordinates>-66.066556,-17.385719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.372806
+Lon: -66.072278</description>
+        <Point>
+          <coordinates>-66.072278,-17.372806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.385719
+Lon: -66.066556</description>
+        <Point>
+          <coordinates>-66.066556,-17.385719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.385719
+Lon: -66.066556</description>
+        <Point>
+          <coordinates>-66.066556,-17.385719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.385719
+Lon: -66.066556</description>
+        <Point>
+          <coordinates>-66.066556,-17.385719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.385719
+Lon: -66.066556</description>
+        <Point>
+          <coordinates>-66.066556,-17.385719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.385719
+Lon: -66.066556</description>
+        <Point>
+          <coordinates>-66.066556,-17.385719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.372806
+Lon: -66.072278</description>
+        <Point>
+          <coordinates>-66.072278,-17.372806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.385719
+Lon: -66.066556</description>
+        <Point>
+          <coordinates>-66.066556,-17.385719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.372806
+Lon: -66.072278</description>
+        <Point>
+          <coordinates>-66.072278,-17.372806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.372806
+Lon: -66.072278</description>
+        <Point>
+          <coordinates>-66.072278,-17.372806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.385719
+Lon: -66.066556</description>
+        <Point>
+          <coordinates>-66.066556,-17.385719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.385719
+Lon: -66.066556</description>
+        <Point>
+          <coordinates>-66.066556,-17.385719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.372806
+Lon: -66.072278</description>
+        <Point>
+          <coordinates>-66.072278,-17.372806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.385719
+Lon: -66.066556</description>
+        <Point>
+          <coordinates>-66.066556,-17.385719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.372806
+Lon: -66.072278</description>
+        <Point>
+          <coordinates>-66.072278,-17.372806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.385719
+Lon: -66.066556</description>
+        <Point>
+          <coordinates>-66.066556,-17.385719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.372806
+Lon: -66.072278</description>
+        <Point>
+          <coordinates>-66.072278,-17.372806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.385719
+Lon: -66.066556</description>
+        <Point>
+          <coordinates>-66.066556,-17.385719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.372806
+Lon: -66.072278</description>
+        <Point>
+          <coordinates>-66.072278,-17.372806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.372806
+Lon: -66.072278</description>
+        <Point>
+          <coordinates>-66.072278,-17.372806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.372806
+Lon: -66.072278</description>
+        <Point>
+          <coordinates>-66.072278,-17.372806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.385719
+Lon: -66.066556</description>
+        <Point>
+          <coordinates>-66.066556,-17.385719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.385719
+Lon: -66.066556</description>
+        <Point>
+          <coordinates>-66.066556,-17.385719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.383910
+Lon: -66.083440</description>
+        <Point>
+          <coordinates>-66.08344,-17.38391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403988
+Lon: -66.027489</description>
+        <Point>
+          <coordinates>-66.027489,-17.403988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.372806
+Lon: -66.072278</description>
+        <Point>
+          <coordinates>-66.072278,-17.372806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.372806
+Lon: -66.072278</description>
+        <Point>
+          <coordinates>-66.072278,-17.372806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.372806
+Lon: -66.072278</description>
+        <Point>
+          <coordinates>-66.072278,-17.372806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.385719
+Lon: -66.066556</description>
+        <Point>
+          <coordinates>-66.066556,-17.385719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.395316
+Lon: -66.113431</description>
+        <Point>
+          <coordinates>-66.113431,-17.395316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.385719
+Lon: -66.066556</description>
+        <Point>
+          <coordinates>-66.066556,-17.385719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381461
+Lon: -66.098772</description>
+        <Point>
+          <coordinates>-66.098772,-17.381461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.373621
+Lon: -66.122951</description>
+        <Point>
+          <coordinates>-66.122951,-17.373621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.410306
+Lon: -66.037306</description>
+        <Point>
+          <coordinates>-66.037306,-17.410306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.403034
+Lon: -66.042194</description>
+        <Point>
+          <coordinates>-66.042194,-17.403034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.391000
+Lon: -66.098944</description>
+        <Point>
+          <coordinates>-66.098944,-17.391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.384972
+Lon: -66.117222</description>
+        <Point>
+          <coordinates>-66.117222,-17.384972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.406583
+Lon: -66.075583</description>
+        <Point>
+          <coordinates>-66.075583,-17.406583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.398361
+Lon: -66.035833</description>
+        <Point>
+          <coordinates>-66.035833,-17.398361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.385719
+Lon: -66.066556</description>
+        <Point>
+          <coordinates>-66.066556,-17.385719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.401944
+Lon: -66.037500</description>
+        <Point>
+          <coordinates>-66.0375,-17.401944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.378722
+Lon: -66.073139</description>
+        <Point>
+          <coordinates>-66.073139,-17.378722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.381778
+Lon: -66.110306</description>
+        <Point>
+          <coordinates>-66.110306,-17.381778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#cdrAntennaStyle</styleUrl>
+        <description>Antenna Location
+Lat: -17.394623
+Lon: -66.073697</description>
+        <Point>
+          <coordinates>-66.073697,-17.394623,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Puntos de Pericia</name>
+      <Placemark>
+        <name>EscenaCrimen</name>
+        <styleUrl>#poiLocationStyle</styleUrl>
+        <description>Nombre: EscenaCrimen
+Lat: -17.385000
+Lon: -66.100000</description>
+        <Point>
+          <coordinates>-66.1,-17.385,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CasaVictima</name>
+        <styleUrl>#poiLocationStyle</styleUrl>
+        <description>Nombre: CasaVictima
+Lat: -17.400000
+Lon: -66.080000</description>
+        <Point>
+          <coordinates>-66.08,-17.4,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TrabajoSospechoso</name>
+        <styleUrl>#poiLocationStyle</styleUrl>
+        <description>Nombre: TrabajoSospechoso
+Lat: -17.375000
+Lon: -66.115000</description>
+        <Point>
+          <coordinates>-66.115,-17.375,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PuntoEncuentroX</name>
+        <styleUrl>#poiLocationStyle</styleUrl>
+        <description>Nombre: PuntoEncuentroX
+Lat: -17.395000
+Lon: -66.050000</description>
+        <Point>
+          <coordinates>-66.05,-17.395,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

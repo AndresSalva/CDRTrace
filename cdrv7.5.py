@@ -739,8 +739,8 @@ if __name__ == '__main__':
         # --- Parámetros para el Análisis Específico ---
         # Cambia estos valores según el teléfono y periodo que quieras analizar
         telefono_sospechoso = "59171234567" # Ejemplo
-        inicio_tiempo = '2023-10-07 00:00:00'
-        fin_tiempo    = '2023-10-07 23:59:59'
+        inicio_tiempo = '2023-10-01 00:00:00'
+        fin_tiempo    = '2023-10-31 23:59:59'
 
         # Crear nombres de archivo base dinámicos (opcional pero recomendado)
         # Reemplaza caracteres no válidos para nombres de archivo
@@ -788,7 +788,8 @@ if __name__ == '__main__':
                 'heatmap_scale_factor': 20,# Factor de escala para el tamaño (según uso)
                 'interval': 1000,           # Milisegundos entre frames
                 # MODIFICADO: Especificar la ruta completa incluyendo la carpeta
-                'save_path': OUTPUT_ANIMATION_FOLDER / f"heatmap_{file_base_name}.gif",
+                'save_path': None,
+                # 'save_path': OUTPUT_ANIMATION_FOLDER / f"heatmap_{file_base_name}.gif",
                 'poi_marker': '^',         # Marcador para POIs
                 'poi_color': 'lime',       # Color para POIs
                 'poi_size': 120            # Tamaño para POIs
@@ -819,7 +820,8 @@ if __name__ == '__main__':
                     'arrow_style': '-|>',        # Estilo de flecha ('->', 'simple', 'fancy', '-|>', etc.)
                     'interval': 1000,             # Milisegundos entre frames
                     # MODIFICADO: Especificar la ruta completa incluyendo la carpeta
-                    'save_path': OUTPUT_ANIMATION_FOLDER / f"path_arrows_{file_base_name}.gif",
+                    'save_path': None,
+                    # 'save_path': OUTPUT_ANIMATION_FOLDER / f"path_arrows_{file_base_name}.gif",
                     'poi_marker': '^',           # Marcador POI (igual que heatmap)
                     'poi_color': 'lime',         # Color POI (igual que heatmap)
                     'poi_size': 120              # Tamaño POI (igual que heatmap)
