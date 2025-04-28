@@ -739,8 +739,8 @@ if __name__ == '__main__':
         # --- Parámetros para el Análisis Específico ---
         # Cambia estos valores según el teléfono y periodo que quieras analizar
         telefono_sospechoso = "59171234567" # Ejemplo
-        inicio_tiempo = '2023-10-31 00:00:00'
-        fin_tiempo    = '2023-10-31 23:59:59'
+        inicio_tiempo = '2023-10-07 00:00:00'
+        fin_tiempo    = '2023-10-07 23:59:59'
 
         # Crear nombres de archivo base dinámicos (opcional pero recomendado)
         # Reemplaza caracteres no válidos para nombres de archivo
